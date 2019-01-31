@@ -55,11 +55,13 @@ public class evenodd {
 						for(int A = 0 ; A < 9 ; A++ ) {
 						System.out.println(a);
 						a=a+2;
+						
 				}
 			}
 			}
 				else {
 					System.out.println("Abort! You have entered an Invalid Input");
+					System.out.println("Please try again..");
 				}
 				}
 				}
